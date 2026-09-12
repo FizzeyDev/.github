@@ -39,6 +39,11 @@ Maintenu par [**Alexis Arduca**](https://github.com/Alexis-Arduca) — étudiant
     <td>JavaScript</td>
   </tr>
   <tr>
+    <td>🧮 <a href="https://github.com/fizzeydev/ChampionsTools"><b>ChampionsTools</b></a></td>
+    <td>Calculateur de dégâts pour <b>Pokémon Champions</b>, bâti sur le moteur de calcul de Smogon avec une couche de données propre au jeu (Pokédex exact, Méga-Évolutions, objets, Points de Stat). Plusieurs modes (1v1, équipes complètes, meilleures attaques du movepool), import/export de sets Showdown. Voir le site en ligne : <a href="https://fizzeydev.github.io/ChampionsTools/">fizzeydev.github.io/ChampionsTools</a></td>
+    <td>TypeScript, Next.js, React</td>
+  </tr>
+  <tr>
     <td>🎮 <b>PokemonTellurianUnity</b> <img src="https://img.shields.io/badge/Private-lightgrey" alt="private"/></td>
     <td>Projet Unity en développement (en cours, non public pour le moment).</td>
     <td>C#, Unity</td>
@@ -53,8 +58,10 @@ Maintenu par [**Alexis Arduca**](https://github.com/Alexis-Arduca) — étudiant
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="36" height="36"/>
 </p>
@@ -64,6 +71,7 @@ Maintenu par [**Alexis Arduca**](https://github.com/Alexis-Arduca) — étudiant
 <div align="center">
 
 ⭐ Envie de tester **UniteTools** ? Rendez-vous sur [unite-tools.com](https://unite-tools.com)
+⚔️ Envie de tester **ChampionsTools** ? Rendez-vous sur [fizzeydev.github.io/ChampionsTools](https://fizzeydev.github.io/ChampionsTools/)
 Un bug, une idée, une suggestion ? Ouvre une issue sur le repo concerné !
 
 </div>
