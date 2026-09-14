@@ -29,17 +29,17 @@ Maintenu par [**Alexis Arduca**](https://github.com/Alexis-Arduca) — étudiant
     <th align="left">Stack</th>
   </tr>
   <tr>
-    <td>🃏 <a href="https://github.com/FizzeyUniteDev/UniteTools"><b>UniteTools</b></a></td>
+    <td>🃏 <a href="https://github.com/FizzeyDev/UniteTools"><b>UniteTools</b></a></td>
     <td>Simulateur de draft Pokémon Unite gratuit, avec plusieurs modes de jeu (Draft, Timer, Tierlist, Calculator...). Voir le site en ligne : <a href="https://unite-tools.com">unite-tools.com</a></td>
     <td>JavaScript, HTML, CSS</td>
   </tr>
   <tr>
-    <td>🔌 <a href="https://github.com/FizzeyUniteDev/UniteToolsApi"><b>UniteToolsApi</b></a></td>
+    <td>🔌 <a href="https://github.com/FizzeyDev/UniteToolsApi"><b>UniteToolsApi</b></a></td>
     <td>L'API qui alimente UniteTools : gestion des données de draft, des tierlists et des différents modes de jeu.</td>
     <td>JavaScript</td>
   </tr>
   <tr>
-    <td>🧮 <a href="https://github.com/fizzeydev/ChampionsTools"><b>ChampionsTools</b></a></td>
+    <td>🧮 <a href="https://github.com/FizzeyDev/ChampionsTools"><b>ChampionsTools</b></a></td>
     <td>Calculateur de dégâts pour <b>Pokémon Champions</b>, bâti sur le moteur de calcul de Smogon avec une couche de données propre au jeu (Pokédex exact, Méga-Évolutions, objets, Points de Stat). Plusieurs modes (1v1, équipes complètes, meilleures attaques du movepool), import/export de sets Showdown. Voir le site en ligne : <a href="https://fizzeydev.github.io/ChampionsTools/">fizzeydev.github.io/ChampionsTools</a></td>
     <td>TypeScript, Next.js, React</td>
   </tr>
